@@ -24,9 +24,9 @@ This project chronicles my journey learning Tailwind CSS from the ground up to b
    - Tailwind's flexibility allows fine-tuning default styles. I explored customizing specific properties using CSS within the `styles` directory of the Tailwind configuration, giving me granular control over the look and feel of the card.
 
 6. 👩‍💻**Figma to Code:**
-   - 🔗With a solid foundation in Tailwind, I used a Figma design (link: [link]) as a guide and meticulously translated it into a fully functional HTML and CSS page using Tailwind's utility classes.
+   - 🔗With a solid foundation in Tailwind, I used a Figma design ([link](https://www.figma.com/file/iDtzvyOipZoPRBOE9kXauQ/combo-deals_h?type=design&node-id=0-1&mode=design)) as a guide and meticulously translated it into a fully functional HTML and CSS page using Tailwind's utility classes.
 
-   - 🔗**Live Demo:** The final responsive web page can be viewed here: [demo link] (Optional, if publicly accessible)
+   - 🔗**Live Demo:** The final responsive web page can be viewed here: [demo]()
 
 ## ❇️Advantages of Tailwind CSS
 
